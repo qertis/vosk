@@ -1,0 +1,8 @@
+.idea
+.git
+.dockerignore
+.gitignore
+LICENSE
+README.md
+vosk-model-*.zip
+*.wav
